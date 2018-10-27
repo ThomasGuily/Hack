@@ -97,8 +97,47 @@ body {
   padding-left: 45px;
   padding-right: 45px;
 }
+<<<<<<< HEAD
 .title {
   text-decoration: underline;
   font-size: 40%;
   text-align: center;
 }
+=======
+<<<<<<< HEAD
+.Regi
+{
+    background-color: #E51C24;
+    text-decoration: none;
+    color : white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    
+}
+
+.ferme
+{
+    
+    display: inline;
+    padding-top: 5px;
+    height: 100px;
+    width: 200px
+
+}
+.unitC
+{
+    border : 0.2px #F1F2F3 solid;
+    display: flex;
+    flex-direction: column;
+}
+.desc
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+=======
+>>>>>>> e9b727db42c56be54eb65579b0af255985008826
+>>>>>>> 60d4a3f5b86d2e4ab71d1e5eae7896facbb3f62d
