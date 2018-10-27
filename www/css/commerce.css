@@ -36,7 +36,7 @@ nav ul {
 }
 nav{
 	width: 100%;
-	background-color: #424558;
+	background-color: grey;
 }
 /* Change color on hover */
 nav li{
@@ -55,6 +55,37 @@ nav a{
 	display: table;;
 	margin: 0 auto;
 }
+.menu-prof{
+	border-top: 5px solid #4C8;
+	background-color: rgba(64.200.130.0.15);
+}
+.menu-com{
+	border-top: 5px solid #F1dc4f;
+	background-color: rgba(241,211,79,0.15);
+}
+.covoit{
+	border-top: 5px solid #0070BB;
+	background-color: rgba(000,112,192,0.15);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .nav1 {
   background-image: linear-gradient(
     to bottom,
