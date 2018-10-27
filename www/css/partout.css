@@ -37,40 +37,32 @@ body {
 
 /* Change color on hover */
 
-.nav1 {
-  background-image: linear-gradient(
-    to bottom,
-    #446455 92%,
-    rgb(248, 234, 202) 100%
-  );
-  color: #f2f2f2;
-  font-size: small;
+nav ul {
+  margin:0px;
+  padding:0px;
 }
-.nav2 {
-  background-image: linear-gradient(
-    to bottom,
-    #fdd262 92%,
-    rgb(248, 234, 202) 100%
-  );
-  color: #f2f2f2;
+nav{
+  width: 100%;
+  background-color: #424558;
 }
-.nav3 {
-  background-image: linear-gradient(
-    to bottom,
-    #d3dddc 92%,
-    rgb(248, 234, 202) 100%
-  );
-  color: #f2f2f2;
+/* Change color on hover */
+nav li{
+  list-style-type: none;
+  float: left;
 }
-.nav4 {
-  background-image: linear-gradient(
-    to bottom,
-    #c7b19c 92%,
-    rgb(248, 234, 202) 100%
-  );
-  color: #f2f2f2;
+nav a{
+  display: inline-block;
+  text-decoration: none;
+  padding: 15px 15px;
+  color: #FFF;
+  text-transform: uppercase;
+  font-size: 15px;
 }
-/* Style the content */
+.table
+{
+  display: table;
+  margin: 0 auto;
+}
 
 .try {
   font-size: small;

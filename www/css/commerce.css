@@ -46,7 +46,7 @@ nav li{
 nav a{
 	display: inline-block;
 	text-decoration: none;
-	padding: 20px 30px;
+	padding: 15px 15px;
 	color: #FFF;
 	text-transform: uppercase;
 	font-size: 15px;
@@ -56,7 +56,8 @@ nav a{
 	display: table;
 	margin: 0 auto;
 }
-.nav1 {
+
+/*.nav1 {
   background-image: linear-gradient(
     to bottom,
     #446455 92%,
@@ -91,49 +92,12 @@ nav a{
 }
 /* Style the content */
 
-.try {
-  font-size: small;
-}
-.Logo {
-  display: block;
-  text-align: center;
-}
-.image {
-  /*width: 80%;*/
-  padding-top: 20%;
-}
-.txt {
-  text-align: center;
-  font-family: Georgia;
-  font-size: 30px;
-}
-.Regis {
-  text-align: center;
-  text-decoration: none;
-}
-.Regi {
-  background-color: #e51c24;
-  text-decoration: none;
-  color: white;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 45px;
-  padding-right: 45px;
-}
-.Element{
-    display: block;
-    padding-right: 10%;
-    margin-bottom: auto;
-	margin-top: auto;
-
-}
-
 .ferme
 {
     
     padding-top: 5px;
     height: 20%;
-    width: 20%;
+    width: 45%;
 
 }
 .unitC
@@ -145,16 +109,43 @@ nav a{
 .colou
 {
 	text-decoration: none;
+  color: black;
 	background-color: white;
 	display: block;
-	border:1px black solid;
-	padding-left: 5%;
-	padding-top: 3%;
-	padding-bottom: 3%;
-	padding-right: 50%;
+  background-color: grey;
+  height: 50px;
+  text-align: center;
+  padding-top: 10px;
+  line-height: 2em;
+  margin-left: 10px;
+  font-size: 10px;
 
 }
 .figca
 {
 	font-size: 9px;
+}
+@media screen and (max-width: 780 px)
+{
+  nav li a 
+  {
+    font-size: 12px;
+    padding: 10px;
+  }
+  .ferme
+  {
+    height: 80px;
+  }
+  .colou
+  {
+    height: 50px;
+    padding-top: 5px;
+
+  }
+}
+p
+{
+  font-size: 10px;
+  line-height: 2em;
+  text-align: center;
 }
