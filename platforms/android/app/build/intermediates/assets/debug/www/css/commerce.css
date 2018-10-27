@@ -1,0 +1,159 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.yellowBo {
+  background-color: rgb(248, 234, 202);
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: inline-block;
+
+  text-align: center;
+  vertical-align: center;
+  text-decoration: none;
+  padding-top: 15px;
+  width: 25%;
+  height: 50px;
+  font-size: 12 px;
+}
+nav ul {
+	margin:0px;
+	padding:0px;
+}
+nav{
+	width: 100%;
+	background-color: #424558;
+}
+/* Change color on hover */
+nav li{
+	list-style-type: none;
+	float: left;
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 15px 15px;
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+.table{
+	display: table;;
+	margin: 0 auto;
+}
+.nav1 {
+  background-image: linear-gradient(
+    to bottom,
+    #446455 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
+  font-size: small;
+}
+.nav2 {
+  background-image: linear-gradient(
+    to bottom,
+    #fdd262 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
+}
+.nav3 {
+  background-image: linear-gradient(
+    to bottom,
+    #d3dddc 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
+}
+.nav4 {
+  background-image: linear-gradient(
+    to bottom,
+    #c7b19c 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
+}
+/* Style the content */
+
+.try {
+  font-size: small;
+}
+.Logo {
+  display: block;
+  text-align: center;
+}
+.image {
+  /*width: 80%;*/
+  padding-top: 20%;
+}
+.txt {
+  text-align: center;
+  font-family: Georgia;
+  font-size: 30px;
+}
+.Regis {
+  text-align: center;
+  text-decoration: none;
+}
+.Regi {
+  background-color: #e51c24;
+  text-decoration: none;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+.Element{
+    display: block;
+    padding-right: 10%;
+    margin-bottom: auto;
+	margin-top: auto;
+
+}
+
+.ferme
+{
+    
+    padding-top: 5px;
+    height: 20%;
+    width: 20%;
+
+}
+.unitC
+{
+    border : 0.2px #F1F2F3 solid;
+    display: flex;
+
+}
+.colou
+{
+	text-decoration: none;
+	background-color: white;
+	display: block;
+	border:1px black solid;
+	padding-left: 5%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 50%;
+
+}
+.figca
+{
+	font-size: 9px;
+}
