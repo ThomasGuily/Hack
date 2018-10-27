@@ -3,5 +3,8 @@
   height: 40%;
   margin-right: auto;
   margin-left: auto;
-  background-color: blueviolet;
+
+  margin-top: 10%;
+  padding-top: 1%;
+  border: 1px double;
 }

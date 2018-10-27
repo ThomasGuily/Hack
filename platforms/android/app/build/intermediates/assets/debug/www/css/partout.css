@@ -97,8 +97,35 @@ body {
   padding-left: 45px;
   padding-right: 45px;
 }
+
 .title {
   text-decoration: underline;
   font-size: 40%;
   text-align: center;
+}
+
+.Regi {
+  background-color: #e51c24;
+  text-decoration: none;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.ferme {
+  display: inline;
+  padding-top: 5px;
+  height: 100px;
+  width: 200px;
+}
+.unitC {
+  border: 0.2px #f1f2f3 solid;
+  display: flex;
+  flex-direction: column;
+}
+.desc {
+  display: flex;
+  flex-direction: row;
 }
