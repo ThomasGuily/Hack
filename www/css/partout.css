@@ -9,7 +9,7 @@ body {
 }
 
 .yellowBo {
-  background-color: rgb(248, 234, 202);
+  background-color: #f2f2f2;
 }
 
 /* Style the top navigation bar */
@@ -37,29 +37,42 @@ body {
 
 /* Change color on hover */
 
-nav ul {
-  margin:0px;
-  padding:0px;
+.nav1 {
+  background-image: linear-gradient(to bottom, #fdd262 92%, #c7b19c 100%);
+  color: #f2f2f2;
 }
-nav{
+
+.nav3 {
+  background-image: linear-gradient(to bottom, #d3dddc 92%, #c7b19c 100%);
+  color: #f2f2f2;
+}
+.nav4 {
+  background-image: linear-gradient(to bottom, #446455 92%, #c7b19c 100%);
+  color: #f2f2f2;
+}
+/* Style the content */
+nav ul {
+  margin: 0px;
+  padding: 0px;
+}
+nav {
   width: 100%;
   background-color: #424558;
 }
 /* Change color on hover */
-nav li{
+nav li {
   list-style-type: none;
   float: left;
 }
-nav a{
+nav a {
   display: inline-block;
   text-decoration: none;
   padding: 15px 15px;
-  color: #FFF;
+  color: #fff;
   text-transform: uppercase;
   font-size: 15px;
 }
-.table
-{
+.table {
   display: table;
   margin: 0 auto;
 }
