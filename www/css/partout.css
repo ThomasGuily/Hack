@@ -15,18 +15,22 @@ body {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
+  display: flex;
 }
 
 /* Style the topnav links */
 .topnav a {
   float: left;
   display: inline-block;
+  /*flex-wrap: nowrap;*/
+  display: block;
 
+  /*text-align: center;
+  vertical-align: center;*/
   text-align: center;
-  vertical-align: center;
   text-decoration: none;
   padding-top: 15px;
-  width: 25%;
+  width: 34%;
   height: 50px;
   font-size: 12 px;
 }

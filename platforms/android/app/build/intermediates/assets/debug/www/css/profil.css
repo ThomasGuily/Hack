@@ -3,8 +3,33 @@
   height: 40%;
   margin-right: auto;
   margin-left: auto;
-
+  background-color: #fdd262;
   margin-top: 10%;
   padding-top: 1%;
   border: 1px double;
+  display: flex;
+}
+p a {
+  color: #f2f2f2;
+}
+.myPhoto {
+  width: 33%;
+  height: 33%;
+  margin-right: 5px;
+  border: double 1px;
+}
+.imgDiv .myPhoto {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.imgDiv {
+  position: relative;
+  padding: 2%;
+}
+.experience {
+  background-color: aquamarine;
+  width: 80%;
+  height: 40%;
 }
