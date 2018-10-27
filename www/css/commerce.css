@@ -21,7 +21,6 @@ body {
 .topnav a {
   float: left;
   display: inline-block;
-
   text-align: center;
   vertical-align: center;
   text-decoration: none;
@@ -31,30 +30,29 @@ body {
   font-size: 12 px;
 }
 nav ul {
-	margin:0px;
-	padding:0px;
+  margin: 0px;
+  padding: 0px;
 }
-nav{
-	width: 100%;
-	background-color: #424558;
+nav {
+  width: 100%;
+  background-color: #424558;
 }
 /* Change color on hover */
-nav li{
-	list-style-type: none;
-	float: left;
+nav li {
+  list-style-type: none;
+  float: left;
 }
-nav a{
-	display: inline-block;
-	text-decoration: none;
-	padding: 20px 30px;
-	color: #FFF;
-	text-transform: uppercase;
-	font-size: 15px;
+nav a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 20px 30px;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 15px;
 }
-.table
-{
-	display: table;
-	margin: 0 auto;
+.table {
+  display: table;
+  margin: 0 auto;
 }
 .nav1 {
   background-image: linear-gradient(
@@ -120,41 +118,32 @@ nav a{
   padding-left: 45px;
   padding-right: 45px;
 }
-.Element{
-    display: block;
-    padding-right: 10%;
-    margin-bottom: auto;
-	margin-top: auto;
-
+.Element {
+  display: block;
+  padding-right: 10%;
+  margin-bottom: auto;
+  margin-top: auto;
 }
 
-.ferme
-{
-    
-    padding-top: 5px;
-    height: 20%;
-    width: 20%;
-
+.ferme {
+  padding-top: 5px;
+  height: 20%;
+  width: 20%;
 }
-.unitC
-{
-    border : 0.2px #F1F2F3 solid;
-    display: flex;
-
+.unitC {
+  border: 0.2px #f1f2f3 solid;
+  display: flex;
 }
-.colou
-{
-	text-decoration: none;
-	background-color: white;
-	display: block;
-	border:1px black solid;
-	padding-left: 5%;
-	padding-top: 3%;
-	padding-bottom: 3%;
-	padding-right: 50%;
-
+.colou {
+  text-decoration: none;
+  background-color: white;
+  display: block;
+  border: 1px black solid;
+  padding-left: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 50%;
 }
-.figca
-{
-	font-size: 9px;
+.figca {
+  font-size: 9px;
 }
