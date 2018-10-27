@@ -30,7 +30,7 @@ p a {
   padding: 2%;
 }
 .experience {
-  background-color: #446455;
+  background-color: #fdd262;
   margin-right: auto;
   margin-left: auto;
   margin-top: 10%;
@@ -40,21 +40,43 @@ p a {
 }
 .classPhoto img {
   height: 60px;
-  width: 60px;
+  width: 80px;
   margin-left: 10px;
   margin-right: 10px;
 }
 .classPhoto {
   border: double #d3dddc 2px;
-  background-color: #fdd262;
-  width: 80px;
+  background-color: #446455;
+  width: 100px;
 }
 .classPhoto p {
   font-size: 10%;
   margin: auto;
   margin-left: 10px;
 }
+.classInfo h2 {
+  font-size: 8%;
+}
+.classInfo ul li {
+  font-size: 6%;
+}
 
 .classGame {
   border: 3px #d3dddc double;
+  display: flex;
+}
+.progressbar {
+  background-color: black;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.progressbar > div {
+  background-color: orange;
+  /* Adjust with JavaScript */
+  height: 4px;
+  border-radius: 10px;
 }

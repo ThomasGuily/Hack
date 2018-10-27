@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 27 23:17:20 CEST 2018
+#Sun Oct 28 01:09:51 CEST 2018
 17.baseType=DIRECTORY
 4.path=www/img/nomade.jpg
 25.base=/home/namah/Laboratory/Web/javascript/Node/React/Cordova/Hack/platforms/android/app/build/intermediates/assets/debug
