@@ -1,6 +1,6 @@
 * {
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -8,84 +8,92 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.yellowBo {
+  background-color: rgb(248, 234, 202);
+}
+
 /* Style the top navigation bar */
 .topnav {
-    overflow: hidden;
-    
+  overflow: hidden;
 }
 
 /* Style the topnav links */
 .topnav a {
-    float: left;
-    display: inline-block;
-    
-    text-align: center; 
-    vertical-align: center ;
-    text-decoration: none;
-    padding-top: 15px;
-    width: 25% ;
-    height: 50px;
-    font-size: 12 px ;
+  float: left;
+  display: inline-block;
+
+  text-align: center;
+  vertical-align: center;
+  text-decoration: none;
+  padding-top: 15px;
+  width: 25%;
+  height: 50px;
+  font-size: 12 px;
 }
 
 /* Change color on hover */
 
-.nav1
-{
-    background-color: #F5F5F5;
-    color: black;
-    font-size: small;
+.nav1 {
+  background-image: linear-gradient(
+    to bottom,
+    #446455 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
+  font-size: small;
 }
-.nav2
-{
-    background-color: #AB987A;
-    color: #f2f2f2;
+.nav2 {
+  background-image: linear-gradient(
+    to bottom,
+    #fdd262 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
 }
-.nav3
-{
-    background-color: #FF533D;
-    color: #f2f2f2;
+.nav3 {
+  background-image: linear-gradient(
+    to bottom,
+    #d3dddc 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
 }
-.nav4
-{
-    background-color: #0F1626;
-    color: #f2f2f2;
+.nav4 {
+  background-image: linear-gradient(
+    to bottom,
+    #c7b19c 92%,
+    rgb(248, 234, 202) 100%
+  );
+  color: #f2f2f2;
 }
 /* Style the content */
 
 .try {
-    font-size: small;
+  font-size: small;
 }
-.Logo
-{
-    display: block;
-    text-align: center;
-    
+.Logo {
+  display: block;
+  text-align: center;
 }
-.image
-{
-    /*width: 80%;*/
-    padding-top: 20%;
-
+.image {
+  /*width: 80%;*/
+  padding-top: 20%;
 }
-.txt{
-    text-align: center;
-    font-family: Georgia;
-    font-size: 30px;
+.txt {
+  text-align: center;
+  font-family: Georgia;
+  font-size: 30px;
 }
-.Regis
-{
-    text-align: center;
-    text-decoration: none;
+.Regis {
+  text-align: center;
+  text-decoration: none;
 }
-.Regi
-{
-    background-color: #E51C24;
-    text-decoration: none;
-    color : white;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 45px;
-    padding-right: 45px;
-    
+.Regi {
+  background-color: #e51c24;
+  text-decoration: none;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 45px;
+  padding-right: 45px;
 }
