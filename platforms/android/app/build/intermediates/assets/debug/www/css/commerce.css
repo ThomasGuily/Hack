@@ -38,7 +38,6 @@ nav {
   background-color: #424558;
 }
 /* Change color on hover */
-<<<<<<< HEAD
 nav li{
 	list-style-type: none;
 	float: left;
@@ -50,23 +49,6 @@ nav a{
 	color: #FFF;
 	text-transform: uppercase;
 	font-size: 15px;
-=======
-nav li {
-  list-style-type: none;
-  float: left;
-}
-nav a {
-  display: inline-block;
-  text-decoration: none;
-  padding: 20px 30px;
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 15px;
-}
-.table {
-  display: table;
-  margin: 0 auto;
->>>>>>> bac3817503f54b1b2538914ff9bf11fa35bbb2c9
 }
 .table
 {
