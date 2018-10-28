@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-#Sun Oct 28 10:29:55 CET 2018
+#Sun Oct 28 11:38:56 CET 2018
 base.0=/home/namah/Laboratory/Web/javascript/Node/React/Cordova/Hack/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
-=======
-#Sun Oct 28 10:19:45 CET 2018
-base.0=C\:\\Users\\loic0\\Hackaton\\Hack\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
->>>>>>> 341d56e63a1506c3c92af79b87d1dc970cc6f6ff
 path.0=classes.dex
 renamed.0=classes.dex

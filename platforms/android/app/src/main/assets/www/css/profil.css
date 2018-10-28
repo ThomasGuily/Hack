@@ -95,6 +95,12 @@ p a {
   width: 80%;
 }
 
+.container3 {
+  padding-left: auto;
+  padding-right: auto;
+  width: 30%;
+}
+
 .rounded {
   border-radius: 5%;
 }
