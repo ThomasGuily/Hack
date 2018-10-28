@@ -38,22 +38,22 @@ nav {
   background-color: #424558;
 }
 /* Change color on hover */
-nav li{
-	list-style-type: none;
-	float: left;
+
+nav li {
+  list-style-type: none;
+  float: left;
 }
-nav a{
-	display: inline-block;
-	text-decoration: none;
-	padding: 15px 15px;
-	color: #FFF;
-	text-transform: uppercase;
-	font-size: 15px;
+nav a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 15px 15px;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 15px;
 }
-.table
-{
-	display: table;
-	margin: 0 auto;
+.table {
+  display: table;
+  margin: 0 auto;
 }
 
 /*.nav1 {
@@ -91,44 +91,6 @@ nav a{
 }
 /* Style the content */
 
-<<<<<<< HEAD
-.ferme
-{
-    
-    padding-top: 5px;
-    height: 20%;
-    width: 45%;
-
-=======
-.try {
-  font-size: small;
-}
-.Logo {
-  display: block;
-  text-align: center;
-}
-.image {
-  /*width: 80%;*/
-  padding-top: 20%;
-}
-.txt {
-  text-align: center;
-  font-family: Georgia;
-  font-size: 30px;
-}
-.Regis {
-  text-align: center;
-  text-decoration: none;
-}
-.Regi {
-  background-color: #e51c24;
-  text-decoration: none;
-  color: white;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 45px;
-  padding-right: 45px;
-}
 .Element {
   display: block;
   padding-right: 10%;
@@ -138,70 +100,45 @@ nav a{
 
 .ferme {
   padding-top: 5px;
-  height: 20%;
-  width: 20%;
->>>>>>> bac3817503f54b1b2538914ff9bf11fa35bbb2c9
+  height: 40%;
+  width: 40%;
 }
 .unitC {
   border: 0.2px #f1f2f3 solid;
   display: flex;
 }
-<<<<<<< HEAD
-.colou
-{
-	text-decoration: none;
+
+.colou {
+  text-decoration: none;
   color: black;
-	background-color: white;
-	display: block;
+  background-color: white;
+  display: block;
   background-color: grey;
   height: 50px;
   text-align: center;
   padding-top: 10px;
   line-height: 2em;
   margin-left: 10px;
-  font-size: 10px;
-
-}
-.figca
-{
-	font-size: 9px;
-}
-@media screen and (max-width: 780 px)
-{
-  nav li a 
-  {
-    font-size: 12px;
-    padding: 10px;
-  }
-  .ferme
-  {
-    height: 80px;
-  }
-  .colou
-  {
-    height: 50px;
-    padding-top: 5px;
-
-  }
-}
-p
-{
-  font-size: 10px;
-  line-height: 2em;
-  text-align: center;
-}
-=======
-.colou {
-  text-decoration: none;
-  background-color: white;
-  display: block;
-  border: 1px black solid;
-  padding-left: 5%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-right: 50%;
+  font-size: 8px;
 }
 .figca {
   font-size: 9px;
 }
->>>>>>> bac3817503f54b1b2538914ff9bf11fa35bbb2c9
+@media screen and (max-width: 780 px) {
+  nav li a {
+    font-size: 12px;
+    padding: 10px;
+  }
+  .ferme {
+    height: 80px;
+  }
+  .colou {
+    height: 50px;
+    padding-top: 5px;
+  }
+}
+p {
+  font-size: 10px;
+  line-height: 2em;
+  text-align: center;
+}

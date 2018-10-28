@@ -38,6 +38,10 @@ nav {
   background-color: #424558;
 }
 /* Change color on hover */
+<<<<<<< HEAD
+
+=======
+>>>>>>> 63603cfe3272f153f4eba488a03538072a20a669
 nav li{
 	list-style-type: none;
 	float: left;
@@ -91,44 +95,8 @@ nav a{
 }
 /* Style the content */
 
-<<<<<<< HEAD
-.ferme
-{
-    
-    padding-top: 5px;
-    height: 20%;
-    width: 45%;
 
-=======
-.try {
-  font-size: small;
-}
-.Logo {
-  display: block;
-  text-align: center;
-}
-.image {
-  /*width: 80%;*/
-  padding-top: 20%;
-}
-.txt {
-  text-align: center;
-  font-family: Georgia;
-  font-size: 30px;
-}
-.Regis {
-  text-align: center;
-  text-decoration: none;
-}
-.Regi {
-  background-color: #e51c24;
-  text-decoration: none;
-  color: white;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 45px;
-  padding-right: 45px;
-}
+
 .Element {
   display: block;
   padding-right: 10%;
@@ -138,15 +106,15 @@ nav a{
 
 .ferme {
   padding-top: 5px;
-  height: 20%;
-  width: 20%;
->>>>>>> bac3817503f54b1b2538914ff9bf11fa35bbb2c9
+  height: 40%;
+  width: 40%;
+
 }
 .unitC {
   border: 0.2px #f1f2f3 solid;
   display: flex;
 }
-<<<<<<< HEAD
+
 .colou
 {
 	text-decoration: none;
@@ -159,7 +127,7 @@ nav a{
   padding-top: 10px;
   line-height: 2em;
   margin-left: 10px;
-  font-size: 10px;
+  font-size: 8px;
 
 }
 .figca
@@ -190,18 +158,4 @@ p
   line-height: 2em;
   text-align: center;
 }
-=======
-.colou {
-  text-decoration: none;
-  background-color: white;
-  display: block;
-  border: 1px black solid;
-  padding-left: 5%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-right: 50%;
-}
-.figca {
-  font-size: 9px;
-}
->>>>>>> bac3817503f54b1b2538914ff9bf11fa35bbb2c9
+
