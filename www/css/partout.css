@@ -127,3 +127,18 @@ nav a {
 .bgGris {
   background-color: #e7d2b7;
 }
+.clJaune {
+  color: #f8e03e;
+}
+.clTaupe {
+  color: #a45e60;
+}
+.clBordeau {
+  color: #541f0f;
+}
+.clOrange {
+  color: #cd8b34;
+}
+.bgGris {
+  background: #e7d2b7;
+}

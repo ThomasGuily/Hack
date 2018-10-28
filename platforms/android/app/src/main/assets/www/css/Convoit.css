@@ -45,4 +45,12 @@ nav a {
   margin: 20px 0px;
 }
 .container {
+  padding-left: auto;
+  padding-right: auto;
+  width: 80%;
+}
+.covoitList {
+}
+h1 {
+  font-size: 20%;
 }
