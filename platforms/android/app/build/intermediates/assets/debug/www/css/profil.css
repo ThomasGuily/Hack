@@ -80,3 +80,11 @@ p a {
   height: 4px;
   border-radius: 10px;
 }
+
+.petite {
+  width: 100%;
+}
+
+.centrale {
+  padding-left: 80px;
+}
