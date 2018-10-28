@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 28 02:25:24 CEST 2018
+#Sun Oct 28 02:33:30 CEST 2018
 5.base=/home/namah/Laboratory/Web/javascript/Node/React/Cordova/Hack/platforms/android/app/build/intermediates/assets/debug
 22.path=www/plugins/cordova-plugin-device-motion/www/Acceleration.js
 32.set=ASSET
