@@ -88,3 +88,9 @@ p a {
 .centrale {
   padding-left: 80px;
 }
+
+.container {
+  padding-left: auto;
+  padding-right: auto;
+  width: 80%;
+}

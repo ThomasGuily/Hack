@@ -43,6 +43,7 @@ nav li {
   list-style-type: none;
   float: left;
 }
+
 nav a {
   display: inline-block;
   text-decoration: none;
