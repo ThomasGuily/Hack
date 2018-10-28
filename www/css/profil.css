@@ -94,3 +94,7 @@ p a {
   padding-right: auto;
   width: 80%;
 }
+
+.rounded {
+  border-radius: 5%;
+}
