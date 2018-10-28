@@ -111,6 +111,9 @@ nav a {
   padding-right: 45px;
 }
 
+.pourCinq {
+  padding: 5%;
+}
 /* couleurs pour le style */
 .bgJaune {
   background-color: #f8e03e;
